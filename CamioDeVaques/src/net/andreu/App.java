@@ -13,7 +13,7 @@ public class App {
 				new Vaca("Maria", 360, 40),
 				new Vaca("Pepa", 250, 35),
 				new Vaca("Flor", 400, 35),
-				new Vaca("Toñi", 180, 28),
+				new Vaca("Toï¿½i", 180, 28),
 				new Vaca("Conxita", 50, 12),
 				new Vaca("Blanca", 90, 13)
 		);
@@ -25,3 +25,4 @@ public class App {
 	}
 
 }
+//afegeixo un comentari
