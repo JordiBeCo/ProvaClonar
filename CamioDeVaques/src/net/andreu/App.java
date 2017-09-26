@@ -1,4 +1,4 @@
-package net.andreu;
+mpackage net.andreu;
 
 import java.util.Arrays;
 import java.util.List;
@@ -25,4 +25,4 @@ public class App {
 	}
 
 }
-//afegeixo un comentari
+//elimino el comentari
