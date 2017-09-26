@@ -25,4 +25,4 @@ public class App {
 	}
 
 }
-//afegeixo un comentari
+//modifico un comentari
